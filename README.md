@@ -53,6 +53,7 @@ personal AI tooling — agents, memory, gates
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1b26?style=for-the-badge&logo=linkedin&logoColor=7dcfff)](https://www.linkedin.com/in/dunglongtran/)
+[![Email](https://img.shields.io/badge/Email-1a1b26?style=for-the-badge&logo=gmail&logoColor=f7768e)](mailto:longdugg.trn@gmail.com)
 
 </div>
 
