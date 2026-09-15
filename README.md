@@ -6,7 +6,7 @@
 
 ---
 
-<img align="right" src="assets/accent.gif" width="26%" alt="" />
+<img align="right" src="assets/accent-cyber.gif" width="22%" alt="" />
 
 ```bash
 $ whoami
