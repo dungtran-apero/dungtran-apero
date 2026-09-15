@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,50:7dcfff,100:f7768e&height=210&section=header&text=Eddie%20Tran&fontSize=54&fontColor=f8f8f2&fontAlignY=40&desc=Mobile%20Developer%20%C2%B7%20AI-native%20workflow&descAlignY=60&descSize=16" width="100%" alt="Eddie Tran" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:bb9af7,50:7dcfff,100:f7768e&height=150&section=header&text=Eddie%20Tran&fontSize=50&fontColor=1a1b26&fontAlignY=40&desc=Mobile%20Developer%20%C2%B7%20AI-native%20workflow&descAlignY=65&descSize=16" width="100%" alt="Eddie Tran" />
 
 <a href="https://github.com/dungtran-apero">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=BB9AF7&center=true&vCenter=true&width=680&height=60&lines=Mobile+Developer+%E2%80%94+Android+%C2%B7+KMP+%C2%B7+SwiftUI;I+ship+apps.+My+AI+agents+do+the+typing.;Building+my+own+dev+tools+on+top+of+Claude+Code" alt="Mobile Developer — Android · KMP · SwiftUI" width="100%" />
@@ -32,8 +32,8 @@ $ uptime
 
 ```bash
 $ cd ~/now && ls -1
-consumer AI apps — at work
-personal AI tooling — agents
+consumer AI apps
+personal AI tooling
 ```
 
 <!-- add project here -->
