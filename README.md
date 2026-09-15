@@ -1,39 +1,23 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:bb9af7,50:7dcfff,100:f7768e&height=150&section=header&text=Eddie%20Tran&fontSize=50&fontColor=1a1b26&fontAlignY=40&desc=Mobile%20Developer%20%C2%B7%20AI-native%20workflow&descAlignY=65&descSize=16" width="100%" alt="Eddie Tran" />
-
-<a href="https://github.com/dungtran-apero">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=BB9AF7&center=true&vCenter=true&width=680&height=60&lines=Mobile+Developer+%E2%80%94+Android+%C2%B7+KMP+%C2%B7+SwiftUI;I+ship+apps.+My+AI+agents+do+the+typing.;Building+my+own+dev+tools+on+top+of+Claude+Code" alt="Mobile Developer — Android · KMP · SwiftUI" width="100%" />
-</a>
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="neofetch-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="neofetch-light.svg" />
+  <img src="neofetch-dark.svg" width="100%" alt="eddie@apero — mobile developer, android · ios, claude code" />
+</picture>
 
 ---
+
+<img align="right" src="assets/accent.gif" width="26%" alt="" />
 
 ```bash
 $ whoami
 Eddie Tran — Trần Long Dũng
-Mobile developer, 4 years. Consumer AI apps on
-Android and iOS. I care what the codebase looks
-like in month eighteen, not launch day.
+Mobile developer, 4 years. Consumer AI apps
+on Android and iOS. I care what the codebase
+looks like in month eighteen, not launch day.
 
-$ cat stack.yml
-mobile:   kotlin · compose · kmp · swift · swiftui
-arch:     clean architecture · mvvm · mvi
-modules:  multi-module gradle · swift packages
-backend:  node · next.js · typescript
-ai:       claude code · agents · memory · gates
-
-$ uptime
-4+ years in production
-```
-
-<img align="right" src="assets/accent.gif" width="30%" alt="" />
-
-```bash
 $ cd ~/now && ls -1
-consumer AI apps
-personal AI tooling
+consumer AI apps — at work
+personal AI tooling — agents, memory, gates
 ```
 
 <!-- add project here -->
