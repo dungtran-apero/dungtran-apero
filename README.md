@@ -1,51 +1,44 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,50:7dcfff,100:f7768e&height=210&section=header&text=Tr%E1%BA%A7n%20Long%20D%C5%A9ng&fontSize=46&fontColor=1a1b26&fontAlignY=40&desc=Mobile%20Developer%20%C2%B7%20AI-native%20workflow&descAlignY=60&descSize=16" width="100%" alt="Trần Long Dũng" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,50:7dcfff,100:f7768e&height=210&section=header&text=Eddie%20Tran&fontSize=54&fontColor=f8f8f2&fontAlignY=40&desc=Mobile%20Developer%20%C2%B7%20AI-native%20workflow&descAlignY=60&descSize=16" width="100%" alt="Eddie Tran" />
 
 <a href="https://github.com/dungtran-apero">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=BB9AF7&center=true&vCenter=true&width=620&height=60&lines=Mobile+Developer+%E2%80%94+Android+%C2%B7+KMP+%C2%B7+SwiftUI;I+ship+apps.+My+AI+agents+do+the+typing.;Building+my+own+dev+tools+on+top+of+Claude+Code" alt="Mobile Developer — Android · KMP · SwiftUI" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=BB9AF7&center=true&vCenter=true&width=680&height=60&lines=Mobile+Developer+%E2%80%94+Android+%C2%B7+KMP+%C2%B7+SwiftUI;I+ship+apps.+My+AI+agents+do+the+typing.;Building+my+own+dev+tools+on+top+of+Claude+Code" alt="Mobile Developer — Android · KMP · SwiftUI" width="100%" />
 </a>
 
 </div>
 
 ---
 
-<img align="right" src="assets/terminal.svg" width="42%" alt="" />
-
 ```bash
 $ whoami
-Dũng — mobile developer. Four years shipping consumer AI apps
-to real users on Android and iOS. I care what the codebase
-looks like in month eighteen, not launch day.
+Eddie Tran (Trần Long Dũng) — mobile developer, 4 years.
+Consumer AI apps on Android and iOS. I care what the
+codebase looks like in month eighteen, not launch day.
 
 $ cat stack.yml
-mobile:
-  - kotlin, jetpack compose, kotlin multiplatform
-  - swift, swiftui
-architecture:
-  - clean architecture, mvvm (ios), mvi (android)
-  - multi-module gradle · swift package manager
-backend_when_needed:
-  - node.js, next.js, typescript
-ai_workflow:
-  - claude code, custom agents, memory systems, ci gates
+mobile:   kotlin · compose · kmp · swift · swiftui
+arch:     clean architecture · mvvm (ios) · mvi (android)
+modules:  multi-module gradle · swift package manager
+backend:  node · next.js · typescript
+ai:       claude code · custom agents · memory · ci gates
 
 $ uptime
 4+ years in production
 ```
 
+<img align="right" src="assets/accent.gif" height="150" alt="" />
+
 ```bash
 $ cd ~/now && ls -1
-consumer AI apps — mobile, at work. Android multi-module and
-  modular SwiftUI, the kind with a paywall and real users.
-personal AI engineering tooling — agent orchestration, a layered
-  memory system, and quality gates that fail by exit code
-  instead of by opinion.
+consumer AI apps — mobile, at work
+personal AI tooling — agents, memory, gates
 ```
 
 <!-- add project here -->
 <!-- - [Project name](https://link) — one line on what it does -->
-<!-- - [App on the App Store](https://link) — one line -->
+
+<br clear="right" />
 
 ---
 
