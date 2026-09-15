@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="neofetch-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="neofetch-light.svg" />
-  <img src="neofetch-dark.svg" width="100%" alt="eddie@apero — mobile developer, android · ios, claude code" />
+  <img src="neofetch-dark.svg" width="100%" alt="Eddie Tran — mobile developer, android and ios" />
 </picture>
 
 ---
@@ -11,8 +11,7 @@
 ```bash
 $ whoami
 Eddie Tran — Trần Long Dũng
-Mobile developer, 4 years. Consumer AI apps
-on Android and iOS. I care what the codebase
+Mobile developer. I care what the codebase
 looks like in month eighteen, not launch day.
 
 $ cd ~/now && ls -1
@@ -54,7 +53,6 @@ personal AI tooling — agents, memory, gates
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1b26?style=for-the-badge&logo=linkedin&logoColor=7dcfff)](https://www.linkedin.com/in/dunglongtran/)
-[![Email](https://img.shields.io/badge/Email-1a1b26?style=for-the-badge&logo=gmail&logoColor=f7768e)](mailto:longdugg.trn@gmail.com)
 
 </div>
 
