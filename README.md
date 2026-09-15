@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,50:7dcfff,100:f7768e&height=180&section=header&text=Tr%E1%BA%A7n%20Long%20D%C5%A9ng&fontSize=52&fontColor=1a1b26&fontAlignY=36&desc=Mobile%20Developer%20%C2%B7%20AI-native%20workflow&descAlignY=56&descSize=16" width="100%" alt="Trần Long Dũng" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,50:7dcfff,100:f7768e&height=210&section=header&text=Tr%E1%BA%A7n%20Long%20D%C5%A9ng&fontSize=46&fontColor=1a1b26&fontAlignY=40&desc=Mobile%20Developer%20%C2%B7%20AI-native%20workflow&descAlignY=60&descSize=16" width="100%" alt="Trần Long Dũng" />
 
 <a href="https://github.com/dungtran-apero">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=BB9AF7&center=true&vCenter=true&width=620&height=60&lines=Mobile+Developer+%E2%80%94+Android+%C2%B7+KMP+%C2%B7+SwiftUI;I+ship+apps.+My+AI+agents+do+the+typing.;Building+my+own+dev+tools+on+top+of+Claude+Code" alt="Mobile Developer — Android · KMP · SwiftUI" width="100%" />
@@ -53,7 +53,7 @@ personal AI engineering tooling — agent orchestration, a layered
 
 <div align="center">
 
-[![Stack](https://skillicons.dev/icons?i=kotlin,swift,androidstudio,xcode,nodejs,nextjs,ts,firebase,git,linux&theme=dark)](https://skillicons.dev)
+[![Stack](https://skillicons.dev/icons?i=kotlin,swift,androidstudio,apple,nodejs,nextjs,ts,firebase,git,linux&theme=dark)](https://skillicons.dev)
 
 </div>
 
