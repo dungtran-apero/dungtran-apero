@@ -12,27 +12,28 @@
 
 ```bash
 $ whoami
-Eddie Tran (Trần Long Dũng) — mobile developer, 4 years.
-Consumer AI apps on Android and iOS. I care what the
-codebase looks like in month eighteen, not launch day.
+Eddie Tran — Trần Long Dũng
+Mobile developer, 4 years. Consumer AI apps on
+Android and iOS. I care what the codebase looks
+like in month eighteen, not launch day.
 
 $ cat stack.yml
 mobile:   kotlin · compose · kmp · swift · swiftui
-arch:     clean architecture · mvvm (ios) · mvi (android)
-modules:  multi-module gradle · swift package manager
+arch:     clean architecture · mvvm · mvi
+modules:  multi-module gradle · swift packages
 backend:  node · next.js · typescript
-ai:       claude code · custom agents · memory · ci gates
+ai:       claude code · agents · memory · gates
 
 $ uptime
 4+ years in production
 ```
 
-<img align="right" src="assets/accent.gif" height="150" alt="" />
+<img align="right" src="assets/accent.gif" width="30%" alt="" />
 
 ```bash
 $ cd ~/now && ls -1
-consumer AI apps — mobile, at work
-personal AI tooling — agents, memory, gates
+consumer AI apps — at work
+personal AI tooling — agents
 ```
 
 <!-- add project here -->
@@ -46,7 +47,7 @@ personal AI tooling — agents, memory, gates
 
 <div align="center">
 
-[![Stack](https://skillicons.dev/icons?i=kotlin,swift,androidstudio,apple,nodejs,nextjs,ts,firebase,git,linux&theme=dark)](https://skillicons.dev)
+[![Stack](https://skillicons.dev/icons?i=kotlin,swift,androidstudio,apple,nodejs,nextjs,ts,firebase,git,linux&perline=5&theme=dark)](https://skillicons.dev)
 
 </div>
 
